@@ -1,0 +1,93 @@
+{
+    "name": "TreesPack",
+    "author": "ChillyCider",
+    "contributions": [
+        {
+            "id": "sapling_canelo",
+            "name": "canelo sapling",
+            "chop_health": 2,
+            "chop_yields": [[1, "wood_canelo"]],
+            "age_up": [4, "days"],
+            "age_up_becomes": "tree_canelo",
+            "sprite": "gfx/sapling_placeholder.png"
+        },
+        {
+            "id": "tree_canelo",
+            "name": "canelo tree",
+            "chop_health": 5,
+            "chop_yields": [[4, "wood_canelo"]],
+            "sprite": "gfx/tree_placeholder.png"
+        },
+        {
+            "id": "wood_canelo",
+            "name": "wood (canelo)",
+            "qualities": ["wood"]
+        },
+        
+        {
+            "id": "sapling_magellans_mayten",
+            "name": "Magellan's mayten sapling",
+            "chop_health": 2,
+            "chop_yields": [[1, "wood_magellans_mayten"]],
+            "age_up": [4, "days"],
+            "age_up_becomes": "tree_magellans_mayten",
+            "sprite": "gfx/sapling_placeholder.png"
+        },
+        {
+            "id": "tree_magellans_mayten",
+            "name": "Magellan's mayten tree",
+            "chop_health": 5,
+            "chop_yields": [[4, "wood_magellans_mayten"]],
+            "sprite": "gfx/tree_placeholder.png"
+        },
+        {
+            "id": "wood_magellans_mayten",
+            "name": "wood (Magellan's mayten)",
+            "qualities": ["wood"]
+        },
+        
+        {
+            "id": "sapling_pilgerodendron",
+            "name": "pilgerodendron sapling",
+            "chop_health": 2,
+            "chop_yields": [[1, "wood_pilgerodendron"]],
+            "age_up": [4, "days"],
+            "age_up_becomes": "tree_pilgerodendron",
+            "sprite": "gfx/sapling_placeholder.png"
+        },
+        {
+            "id": "tree_pilgerodendron",
+            "name": "pilgerodendron tree",
+            "chop_health": 5,
+            "chop_yields": [[4, "wood_pilgerodendron"]],
+            "sprite": "gfx/tree_placeholder.png"
+        },
+        {
+            "id": "wood_pilgerodendron",
+            "name": "wood (pilgerodendron)",
+            "qualities": ["wood"]
+        },
+        
+        {
+            "id": "sapling_beech",
+            "name": "beech sapling",
+            "chop_health": 2,
+            "chop_yields": [[1, "wood_beech"]],
+            "age_up": [4, "days"],
+            "age_up_becomes": "tree_beech",
+            "sprite": "gfx/sapling_placeholder.png"
+        },
+        {
+            "id": "tree_beech",
+            "name": "beech tree",
+            "chop_health": 5,
+            "chop_yields": [[4, "wood_beech"]],
+            "sprite": "gfx/tree_placeholder.png"
+        },
+        {
+            "id": "wood_beech",
+            "name": "wood (beech)",
+            "qualities": ["wood"]
+        }
+    ]
+}
